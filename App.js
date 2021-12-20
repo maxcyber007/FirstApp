@@ -6,7 +6,7 @@ export default function App() {
     return ( 
         <View style = { styles.container } >
         <Text style = { styles.textRedbold }>React Native</Text>
-        <Text>Mr.Anuchat  Rungsiyanon</Text>
+        <Text>Mr.Anuchat  Rungsiyanon 555</Text>
         <StatusBar style="auto" />
         </View>
     );
